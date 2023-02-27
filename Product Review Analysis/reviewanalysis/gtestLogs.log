@@ -1,0 +1,148 @@
+2023-02-27 10:30:05,140 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] Starting ReviewanalysisApplication using Java 17.0.6 on inlen8520081480 with PID 15560 (C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis\target\classes started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 10:30:05,148 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 10:30:05,208 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-27 10:30:05,208 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-27 10:30:05,949 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 10:30:06,021 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 58 ms. Found 1 JPA repository interfaces.
+2023-02-27 10:30:06,725 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8077 (http)
+2023-02-27 10:30:06,737 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-02-27 10:30:06,738 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-27 10:30:06,820 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-27 10:30:06,821 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1612 ms
+2023-02-27 10:30:07,035 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 10:30:07,119 [INFO] org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 10:30:07,287 [INFO] org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 10:30:07,392 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-02-27 10:30:07,611 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-02-27 10:30:07,627 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 10:30:08,215 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 10:30:08,223 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:30:08,750 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 10:30:09,110 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-02-27 10:30:09,148 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8077 (http) with context path ''
+2023-02-27 10:30:09,160 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] Started ReviewanalysisApplication in 4.444 seconds (JVM running for 4.973)
+2023-02-27 10:34:56,700 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] Starting ReviewanalysisApplication using Java 17.0.6 on inlen8520081480 with PID 3392 (C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis\target\classes started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 10:34:56,701 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 10:34:56,750 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-27 10:34:56,751 [INFO] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-02-27 10:34:57,311 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 10:34:57,369 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 49 ms. Found 1 JPA repository interfaces.
+2023-02-27 10:34:58,117 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8077 (http)
+2023-02-27 10:34:58,131 [INFO] org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-02-27 10:34:58,132 [INFO] org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.71]
+2023-02-27 10:34:58,204 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-02-27 10:34:58,204 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1453 ms
+2023-02-27 10:34:58,378 [INFO] org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 10:34:58,420 [INFO] org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 10:34:58,549 [INFO] org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 10:34:58,628 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-02-27 10:34:58,818 [INFO] com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-02-27 10:34:58,834 [INFO] org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 10:34:59,371 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 10:34:59,382 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:34:59,856 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 10:35:00,204 [INFO] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-02-27 10:35:00,242 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8077 (http) with context path ''
+2023-02-27 10:35:00,253 [INFO] com.reviewanalysis.ReviewanalysisApplication [restartedMain] Started ReviewanalysisApplication in 3.96 seconds (JVM running for 4.463)
+2023-02-27 10:58:37,138 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 18788 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 10:58:37,139 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 10:58:37,671 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 10:58:37,736 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interfaces.
+2023-02-27 10:58:38,244 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 10:58:38,294 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 10:58:38,446 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 10:58:38,566 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 10:58:38,785 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 10:58:38,803 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 10:58:39,353 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 10:58:39,360 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:58:40,123 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 10:58:40,733 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.915 seconds (JVM running for 4.998)
+2023-02-27 10:58:41,139 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:58:41,142 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 10:58:41,175 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-02-27 10:59:27,999 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 15764 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 10:59:28,000 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 10:59:28,492 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 10:59:28,567 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interfaces.
+2023-02-27 10:59:29,095 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 10:59:29,160 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 10:59:29,289 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 10:59:29,429 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 10:59:29,635 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 10:59:29,653 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 10:59:30,132 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 10:59:30,138 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:59:30,807 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 10:59:31,368 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.674 seconds (JVM running for 4.568)
+2023-02-27 10:59:31,630 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 10:59:31,632 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 10:59:31,647 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-02-27 11:00:53,744 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 17684 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 11:00:53,745 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 11:00:54,255 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 11:00:54,310 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interfaces.
+2023-02-27 11:00:54,895 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 11:00:54,954 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 11:00:55,121 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 11:00:55,250 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 11:00:55,462 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 11:00:55,476 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 11:00:56,011 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 11:00:56,020 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:00:56,705 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 11:00:57,254 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.791 seconds (JVM running for 4.595)
+2023-02-27 11:00:57,577 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:00:57,580 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 11:00:57,586 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-02-27 11:12:41,231 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 12180 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 11:12:41,232 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 11:12:41,722 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 11:12:41,788 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interfaces.
+2023-02-27 11:12:42,300 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 11:12:42,360 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 11:12:42,490 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 11:12:42,634 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 11:12:42,960 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 11:12:42,973 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 11:12:43,465 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 11:12:43,471 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:12:44,138 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 11:12:44,683 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.745 seconds (JVM running for 4.59)
+2023-02-27 11:12:45,003 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:12:45,005 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 11:12:45,014 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-02-27 11:41:16,389 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 3276 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 11:41:16,390 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 11:41:16,859 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 11:41:16,908 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 42 ms. Found 1 JPA repository interfaces.
+2023-02-27 11:41:17,354 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 11:41:17,404 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 11:41:17,534 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 11:41:17,655 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 11:41:17,854 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 11:41:17,869 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 11:41:18,360 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 11:41:18,369 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:41:19,011 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 11:41:19,493 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.372 seconds (JVM running for 4.262)
+2023-02-27 11:41:19,789 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:41:19,792 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 11:41:19,796 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-02-27 11:48:25,569 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Starting ReviewServiceImplTest using Java 17.0.6 on inlen8520081480 with PID 8156 (started by dharvm in C:\Users\dharvm\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Product Review Analysis\reviewanalysis)
+2023-02-27 11:48:25,570 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] No active profile set, falling back to 1 default profile: "default"
+2023-02-27 11:48:26,176 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-27 11:48:26,237 [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interfaces.
+2023-02-27 11:48:26,729 [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-27 11:48:26,786 [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-02-27 11:48:26,911 [INFO] org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-02-27 11:48:27,057 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-02-27 11:48:27,274 [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-02-27 11:48:27,290 [INFO] org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-02-27 11:48:27,756 [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-27 11:48:27,763 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:48:28,396 [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-27 11:48:28,911 [INFO] com.reviewanalysis.service.ReviewServiceImplTest [main] Started ReviewServiceImplTest in 3.634 seconds (JVM running for 4.685)
+2023-02-27 11:48:29,194 [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-27 11:48:29,197 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-02-27 11:48:29,201 [INFO] com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
